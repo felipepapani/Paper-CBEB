@@ -12,7 +12,7 @@ control analyses.
 
 ## What is here
 
-- `TCC_reproducibility.ipynb` — the full pipeline, from raw ECG to the figures
+- `Code_reproducibility.ipynb` — the full pipeline, from raw ECG to the figures
   and effect sizes reported in the paper.
 - `R4_contraste_mesmos_7.py` — recomputes the amplitude-domain paired Cohen's *d*
   restricted to the seven HRV-arm patients (control for the domain contrast).
